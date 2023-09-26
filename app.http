@@ -1,0 +1,6 @@
+###
+PUT http://localhost:3000/districts/2/
+
+###
+GET http://localhost:3000/districts/2/details/
+
